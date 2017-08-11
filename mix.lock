@@ -1,0 +1,2 @@
+%{"hoedown": {:git, "https://github.com/hoedown/hoedown.git", "980b9c549b4348d50b683ecee6abee470b98acda", []},
+  "openssl": {:git, "https://github.com/openssl/openssl.git", "710769f0a9ed6b758bbf7ffa217c21b47f31a8a6", []}}
